@@ -1,16 +1,16 @@
-# 🗀 ze dotfiles
+#      🗀  ze dotfiles
 
-### 🗀 hypr/ window manager config and fabric widgets (top bar, side panel, notifs and applauncher)
+#### 🗀 hypr/ window manager config and fabric widgets (top bar, side panel, notifs and applauncher)
 
-### 🗀 alacritty/ my terminal config
+#### 🗀  alacritty/ my terminal config
 
-### 🗀 neofetch/ the fetch, cuz, i use arch btw
+#### 🗀 neofetch/ the fetch, cuz, i use arch btw
 
-### 🗀 nvim/ my neovim config of nvchad, added plugins and abit configured
+#### 🗀  nvim/ my neovim config of nvchad, added plugins and abit configured
 
-### 🗀 vesktop/ my vencord settings + theme
+#### 🗀 vesktop/ my vencord settings + theme
 
-### 🗀 showcase/
+#### 🗀  showcase/
 
 - nvchad with a little bit mor
 ![image](https://github.com/user-attachments/assets/e1aa29e1-0a99-4609-b59e-72404b7dee77)
